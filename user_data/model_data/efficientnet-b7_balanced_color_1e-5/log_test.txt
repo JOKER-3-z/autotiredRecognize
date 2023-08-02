@@ -1,0 +1,22 @@
+epoch:1 model:efficientnet-b7 train loss:0.30 acc:0.86  test loss0.04 acc:98.82
+epoch:2 model:efficientnet-b7 train loss:0.06 acc:0.98  test loss0.01 acc:99.91
+epoch:3 model:efficientnet-b7 train loss:0.03 acc:0.99  test loss0.01 acc:99.73
+epoch:4 model:efficientnet-b7 train loss:0.02 acc:0.99  test loss0.00 acc:99.82
+epoch:5 model:efficientnet-b7 train loss:0.01 acc:1.00  test loss0.00 acc:99.91
+epoch:6 model:efficientnet-b7 train loss:0.01 acc:1.00  test loss0.00 acc:99.91
+epoch:7 model:efficientnet-b7 train loss:0.01 acc:1.00  test loss0.01 acc:99.91
+epoch:8 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:99.91
+epoch:9 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:99.91
+epoch:10 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:100.00
+epoch:11 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:100.00
+epoch:12 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:99.91
+epoch:13 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:100.00
+epoch:14 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:100.00
+epoch:15 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:100.00
+epoch:16 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:100.00
+epoch:17 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:100.00
+epoch:18 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:100.00
+epoch:19 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:100.00
+epoch:20 model:efficientnet-b7 train loss:0.00 acc:1.00  test loss0.00 acc:100.00
+model:efficientnet-b7 best acc:100.00
+traninng time: 4954.90229678154
